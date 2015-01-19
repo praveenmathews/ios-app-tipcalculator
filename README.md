@@ -16,4 +16,4 @@ Completed user stories:
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](ios-tipcalculator.gif ) - https://github.com/praveenmathews/ios-app-tipcalculator/blob/master/ios-tipcalculator.gif 
+![Video Walkthrough](ios-tipcalculator.gif ) 
